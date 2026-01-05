@@ -1,8 +1,9 @@
 <div align="center">
 
-  <h1 style="font-family: 'Courier New', monospace; letter-spacing: 2px; font-weight: bold;">Hi, I am Szymon 👋</h1>
-  <h3 style="font-family: 'Courier New', monospace; letter-spacing: 1px;">Computer Science Student & Web Developer</h3>
-  <h4 style="font-family: 'Courier New', monospace; letter-spacing: 1px;">Creator of SONE Projects</h4>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Szymon+%F0%9F%91%8B" alt="Typing SVG" />
+  
+  <h3><samp>Computer Science Student & Web Developer</samp></h3>
+  <h4><samp>Creator of SONE Projects</samp></h4>
 
   <br>
 
@@ -20,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- Computer Science student learning web development through real projects.  
+- Computer Science student learning web development through personal projects.  
 - Interested in PHP backends, simple REST-style logic and small web tools.  
 - SONE Projects is my main playground where I build and improve small applications.
 
@@ -59,3 +60,8 @@ class Developer {
 <div align="center">
   <samp>Made with ❤️ by <a href="https://github.com/7snqx">7snqx</a></samp>
 </div>
+
+
+[1](https://soneprojects.com)
+[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/75128414/304fd9b3-489a-4cd1-a512-ff802d0b3f92/image.jpg)
+[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/75128414/99a3539c-a1f7-467c-aaaf-4d9fd0291177/image.jpg)
