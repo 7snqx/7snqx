@@ -7,9 +7,10 @@
 
   <br>
 
-  <a href="https://soneprojects.com">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://soneprojects.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-3B82F6?style=for-the-badge&logoColor=white&labelColor=1e293b" alt="Portfolio" />
+</a>
+
 
   <br><br>
 
