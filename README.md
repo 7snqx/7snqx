@@ -1,16 +1,14 @@
-
 <div align="center">
 
-  <h1><samp>Hi, I am Szymon 👋</samp></h1>
-  <h3><samp>Computer Science Student & Web Developer</samp></h3>
-  <h4><samp>Creator of SONE Projects</samp></h4>
+  <h1 style="font-family: 'Courier New', monospace; letter-spacing: 2px; font-weight: bold;">Hi, I am Szymon 👋</h1>
+  <h3 style="font-family: 'Courier New', monospace; letter-spacing: 1px;">Computer Science Student & Web Developer</h3>
+  <h4 style="font-family: 'Courier New', monospace; letter-spacing: 1px;">Creator of SONE Projects</h4>
 
   <br>
 
   <a href="https://soneprojects.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-3B82F6?style=for-the-badge&logoColor=white&labelColor=1e293b" alt="Portfolio" />
-</a>
-
+    <img src="https://img.shields.io/badge/Visit_Portfolio-3B82F6?style=for-the-badge&logoColor=white&labelColor=1e293b" alt="Portfolio" />
+  </a>
 
   <br><br>
 
@@ -48,11 +46,13 @@ class Developer {
 ?>
 ```
 
+<br>
+
 ## 🏗️ Main Project
 
-| Project                                                        | Description                                                | Stack              |
-| :------------------------------------------------------------- | :--------------------------------------------------------- | :----------------- |
-| **[🌐 SONE Projects](https://github.com/7snqx/S1Projects)**    | Personal playground with small web tools and experiments. | `PHP` `MySQL` `JS` |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[SONE Projects](https://github.com/7snqx/S1Projects)** | Personal playground with small web tools and experiments. | `PHP` `MySQL` `JS` |
 
 <br><br>
 
